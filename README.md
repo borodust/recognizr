@@ -1,0 +1,3 @@
+# recognizr
+
+Image OCR tool
